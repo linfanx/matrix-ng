@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "matrix-ng",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d587ad07-0f55-46bf-a9cf-355a6cadd008",
+      "database_name": "rapid-sea-f652-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
